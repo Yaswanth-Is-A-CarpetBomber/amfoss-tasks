@@ -1,2 +1,2 @@
-f = open("/Users/a.t.yaswanthreddy/Club Inputs/text.txt", "r")
+f = open("/Users/a.t.yaswanthreddy/Club Inputs/input.txt", "r")
 print(f.read())
