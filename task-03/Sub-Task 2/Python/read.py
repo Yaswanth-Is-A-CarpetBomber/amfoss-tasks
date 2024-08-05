@@ -1,2 +1,7 @@
 f = open("/Users/a.t.yaswanthreddy/Club Inputs/input.txt", "r")
-print(f.read())
+x = f.read()
+
+k = open("output.txt", "w")
+
+k.write(x)
+print(x)
